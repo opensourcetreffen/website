@@ -135,20 +135,12 @@ hr {
 }
 
 .post {
-	padding: 5px 0 0 0;
+	padding: 5px 0 20px 0;
 }
 
-.title {
+.post h1 {
 	padding: 0 20px 0 0px;
 	font-size: 24px;
-}
-
-.title a {
-	text-decoration: none;
-	color: #FFFFFF;
-}
-
-.pagetitle {
 }
 
 .byline {

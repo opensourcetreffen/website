@@ -1,16 +1,15 @@
-<div id="content">
-  <div class="post">
-    	<h1 class="title">Kontakt</h1>
+# Kontakt
 
-    <div class="entry">
-      <p>Für Anmeldungen, Anregungen und Feedback zum Open-Source-Treffen, schreibt
-        einfach an</p>
-      <div style="text-align: center;">
-        <p><a href="mailto:info@opensourcetreffen.de">info@opensourcetreffen.de</a>
-        </p>
-      </div>
-      <p>Auch über Meldungen von Sponsoren, Unterstützern und Projekten, die mitmachen
-        wollen, freuen wir uns immer!</p>
-    </div>
-  </div>
+<div class="entry">
+
+Für Anmeldungen, Anregungen und Feedback zum Open-Source-Treffen, schreibt einfach an
+
+<div style="text-align: center;">
+
+[info@opensourcetreffen.de](mailto:info@opensourcetreffen.de)
+
+</div>
+
+Auch über Meldungen von Sponsoren, Unterstützern und Projekten, die mitmachen wollen, freuen wir uns immer!
+
 </div>
