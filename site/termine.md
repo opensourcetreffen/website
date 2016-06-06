@@ -8,7 +8,6 @@ Das Café Netzwerk bietet günstige alkoholfreie Getränke sowie Pizzen und Snac
 
 Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. Die Treffen stehen unter dem Motto **"Jeder vierte Freitag im Monat für freie Software"**:
 
-*   Freitag, 27\. Mai 2016
 *   Freitag, 24\. Juni 2016
 *   Freitag, 22\. Juli 2016 - kleine Geburtstagsfeier zum siebenjährigen Bestehen
 
@@ -16,6 +15,5 @@ Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine 
 
 Eine Übersicht über die geplanten Workshops findet ihr in unserem [Wiki](http://wiki.opensourcetreffen.de/index.php/Workshops "wiki"). Die Teilnahme ist kostenlos, eine **Anmeldung** über info[ät]opensourcetreffen.de ist jedoch aus organisatorischen Gründen erforderlich. Details werden auf den Mailinglisten angekündigt.
 
-*   Sonntag, 19\. Juni 2016, 13-18 Uhr: Scala
-
+Derzeit sind keine Workshops geplant.
 
