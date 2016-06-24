@@ -10,6 +10,11 @@ Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine 
 
 *   Freitag, 24\. Juni 2016
 *   Freitag, 22\. Juli 2016 - kleine Geburtstagsfeier zum siebenjährigen Bestehen
+*   Freitag, 19. August 2016 - Biergarten
+*   Freitag, 23. September 2016 
+*   Freitag, 28. Oktober 2016
+*   Freitag, 25. November 2016
+*   Freitag, 16. Dezember 2016
 
 ## Workshops
 
