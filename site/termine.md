@@ -8,8 +8,6 @@ Das Café Netzwerk bietet günstige alkoholfreie Getränke sowie Pizzen und Snac
 
 Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. Die Treffen stehen unter dem Motto **"Jeder vierte Freitag im Monat für freie Software"**:
 
-*   Freitag, 22. Juli 2016 - kleine Geburtstagsfeier zum siebenjährigen Bestehen
-  * Bericht von der Wikimania 2016 (Michael Schönitzer)
 *   Freitag, 19. August 2016 - Biergarten
 *   Freitag, 23. September 2016 
 *   Freitag, 28. Oktober 2016
@@ -20,5 +18,9 @@ Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine 
 
 Workshops finden unregelmäßig statt. Die Teilnahme ist kostenlos, eine **Anmeldung** ist jedoch aus organisatorischen Gründen erforderlich. Details werden auf den Mailinglisten angekündigt.
 
-Derzeit sind keine Workshops geplant.
+* Sonntag, 04. September 2016 von 11:00 bis 18:00 Uhr
+    * Einführung in simpl4 (Jürgen Roscher)
+    * [Beschreibung und Anmeldung](https://opensourcetreffen.de/workshops/)
+
+<!-- Derzeit sind keine Workshops geplant. -->
 

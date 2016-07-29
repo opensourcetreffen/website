@@ -6,6 +6,9 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 
 ## Nächste Termine
 
-*   Das nächste Open-Source-Treffen findet statt am **Freitag, 22. Juli 2016**
+*   Das nächste Open-Source-Treffen findet statt am **Freitag, 19. August 2016**
+*   Der nächste Workshop findet statt am **Sonntag, 04. September 2016 von 11:00 bis 18:00 Uhr**
+    * Einführung in simpl4 (Jürgen Roscher)
+    * [Beschreibung und Anmeldung](https://opensourcetreffen.de/workshops/)
 
 
