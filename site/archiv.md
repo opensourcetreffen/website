@@ -338,7 +338,7 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 
 ## 24\. Juni 2016
 
-*   Die neue Webseite und Serverinfrastruktur (Christine Koppelt, Stefan Seelmann)
+*   Die neue Webseiten- und Serverinfrastruktur (Christine Koppelt, Stefan Seelmann)
 
 ## 22\. Juli 2016 
 

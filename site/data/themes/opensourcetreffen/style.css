@@ -109,7 +109,7 @@ hr {
 }
 
 #wrapper {
-	width: 840px;
+	width: 900px;
 	margin: 0;
 	padding: 0;
 	/* background: url(images/img02.jpg) no-repeat left top; */
@@ -118,7 +118,7 @@ hr {
 /* Page */
 
 #page {
-	width: 840px;
+	width: 900px;
 	margin: 0 left;
 	padding: 0;
 }
@@ -127,7 +127,7 @@ hr {
 
 #content {
 	float: right;
-	width: 510px;
+	width: 570px;
 	margin: 0;
 	padding: 0px 0 0 0;
 }
