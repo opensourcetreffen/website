@@ -9,8 +9,7 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 *   Das nächste Open-Source-Treffen findet statt am **23. September 2016**
     * Eindrücke von der FrOSCon 2016 (Ulrich Lehmkühler)
 *   Am **28. Oktober 2016** veranstalten wir ab 18:00 Uhr einen langen Abend zu systemd
-    * Integration eigener Dienste mit systemd (Oliver Rath)    
+    * Vortrag: Integration eigener Dienste mit systemd (Oliver Rath)    
       Mit systemd wird es sehr einfach, eigene Dienste resp. Daemons in ein Linux-System zu integrieren, da hierfür entsprechende Werkzeuge entwickelt wurde.    
       Anhand exemplarischer Konfigurationen wird die Integration auf Basis eines Ubuntu 16.04 Server demonstriert.
-
-
+    * Weitere Vorträge sind sehr willkommen, einfach eine Mail an die Maillingliste oder [info@opensourcetreffen.de](mailto:info@opensourcetreffen.de)
