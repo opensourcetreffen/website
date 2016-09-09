@@ -328,6 +328,29 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 
 *   (kein Vortrag)
 
+## 17\. April 2016
+
+*    Workshop: Einführung in JavaScript (Christine Koppelt)
+
+## 27\. Mai 2016
+
+*   (kein Vortrag)
+
+## 24\. Juni 2016
+
+*   Die neue Webseite und Serverinfrastruktur (Christine Koppelt, Stefan Seelmann)
+
+## 22\. Juli 2016 
+
+*   Bericht von der Wikimania 2016 (Michael Schönitzer)
+
+## 19\. August 2016
+
+*   (kein Vortrag)
+
+## 04\. September 2016
+*   Workshop: Einführung in simpl4 (Jürgen Roscher)
+
 ## Vorträge über die Open-Source-Treffen
 
 *   [Florian's Präsentation am Augsburger Linux-Infotag 2015](https://speakerdeck.com/floeff/die-open-source-treffen-in-munchen-oder-wie-kocht-man-sich-sein-eigenes-open-source-event)
