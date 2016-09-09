@@ -8,8 +8,9 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 
 *   Das nächste Open-Source-Treffen findet statt am **23. September 2016**
     * Eindrücke von der FrOSCon 2016 (Ulrich Lehmkühler)
-*   Der nächste Workshop findet statt am **Sonntag, 04. September 2016 von 11:00 bis 18:00 Uhr**
-    * Einführung in simpl4 (Jürgen Roscher)
-    * [Beschreibung und Anmeldung](https://opensourcetreffen.de/workshops/)
+*   Am **28. Oktober 2016** veranstalten wir ab 18:00 Uhr einen langen Abend zu systemd
+    * Integration eigener Dienste mit systemd (Oliver Rath)    
+      Mit systemd wird es sehr einfach, eigene Dienste resp. Daemons in ein Linux-System zu integrieren, da hierfür entsprechende Werkzeuge entwickelt wurde.    
+      Anhand exemplarischer Konfigurationen wird die Integration auf Basis eines Ubuntu 16.04 Server demonstriert.
 
 
