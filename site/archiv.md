@@ -351,6 +351,11 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 ## 04\. September 2016
 *   Workshop: Einführung in simpl4 (Jürgen Roscher)
 
+## 23\. September 2016
+* Eindrücke von der FrOSCon 2016 (Ulrich Lehmkühler)
+* Vorstellung/Diskussion von vim-Konfigurationen
+
+
 ## Vorträge über die Open-Source-Treffen
 
 *   [Florian's Präsentation am Augsburger Linux-Infotag 2015](https://speakerdeck.com/floeff/die-open-source-treffen-in-munchen-oder-wie-kocht-man-sich-sein-eigenes-open-source-event)
