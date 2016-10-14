@@ -16,5 +16,7 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
     * Vortrag: **Integration eigener Dienste mit systemd** (Oliver Rath)    
       Mit systemd wird es sehr einfach, eigene Dienste resp. Daemons in ein Linux-System zu integrieren, da hierfür entsprechende Werkzeuge entwickelt wurde.    
       Anhand exemplarischer Konfigurationen wird die Integration auf Basis eines Ubuntu 16.04 Server demonstriert.
+    * Vortrag: **Einfache Tipps für mehr Sicherheit mit systemd** (Michael Schönitzer)
+      Systemd bietet ein paar sehr einfache Möglichkeiten die Sicherheit eines Systems deutlich zu erhöhen. Ich zeige die Optionen die jeder Sysadmin kennen sollte.
 
     * Weitere Vorträge sind sehr willkommen, einfach eine Mail an die Maillingliste oder [info@opensourcetreffen.de](mailto:info@opensourcetreffen.de)
