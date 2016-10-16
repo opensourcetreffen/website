@@ -19,4 +19,4 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
     * Vortrag: **Einfache Tipps für mehr Sicherheit mit systemd** (Michael Schönitzer)
       Systemd bietet ein paar sehr einfache Möglichkeiten die Sicherheit eines Systems deutlich zu erhöhen. Ich zeige die Optionen die jeder Sysadmin kennen sollte.
 
-    * Weitere Vorträge sind sehr willkommen, einfach eine Mail an die Maillingliste oder [info@opensourcetreffen.de](mailto:info@opensourcetreffen.de)
+    * **Diskussionsrunden** und Zusammenfassung der Ergebnisse (Christine Koppelt)
