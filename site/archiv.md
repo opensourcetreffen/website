@@ -355,6 +355,8 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 * Eindrücke von der FrOSCon 2016 (Ulrich Lehmkühler)
 * Vorstellung/Diskussion von vim-Konfigurationen
 
+## 28\. Oktober 2016
+* Ein langer Abend zu [systemd](archiv/systemd.html)
 
 ## Vorträge über die Open-Source-Treffen
 
