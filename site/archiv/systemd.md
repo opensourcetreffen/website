@@ -12,6 +12,7 @@
   Anhand exemplarischer Konfigurationen wird die Integration auf Basis eines Ubuntu 16.04 Server demonstriert.
 
 * Vortrag: **Einfache Tipps für mehr Sicherheit mit systemd** (Michael Schönitzer)
-  Systemd bietet ein paar sehr einfache Möglichkeiten die Sicherheit eines Systems deutlich zu erhöhen. Ich zeige die Optionen die jeder Sysadmin kennen sollte.
+  Systemd bietet ein paar sehr einfache Möglichkeiten die Sicherheit eines Systems deutlich zu erhöhen. Ich zeige die Optionen die jeder Sysadmin kennen sollte. [Folien](/downloads/20161128-muenchen-systemd_sec.pdf)
+
 * **Diskussionsrunden** und Zusammenfassung der Ergebnisse (Christine Koppelt)
     * SWOT-Analyse von systemd [Ergebnis](/downloads/systemd-swot.png) 
