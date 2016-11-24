@@ -9,6 +9,7 @@ Das Café Netzwerk bietet günstige alkoholfreie Getränke sowie Pizzen und Snac
 Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. Die Treffen stehen unter dem Motto **"Jeder vierte Freitag im Monat für freie Software"**:
 
 *   Freitag, 25. November 2016
+    * Feuerzangenbowle und Waffelbacken
 *   Freitag, 16. Dezember 2016
 
 ## Workshops
