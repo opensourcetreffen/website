@@ -349,14 +349,21 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 *   (kein Vortrag)
 
 ## 04\. September 2016
+
 *   Workshop: Einführung in simpl4 (Jürgen Roscher)
 
 ## 23\. September 2016
+
 * Eindrücke von der FrOSCon 2016 (Ulrich Lehmkühler)
 * Vorstellung/Diskussion von vim-Konfigurationen
 
 ## 28\. Oktober 2016
+
 * Ein langer Abend zu [systemd](archiv/systemd.html)
+
+## 25\. November 2016
+
+* Feuerzangenbowle und Waffelbacken
 
 ## Vorträge über die Open-Source-Treffen
 

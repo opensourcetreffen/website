@@ -6,6 +6,8 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 
 ## Nächste Termine
 
-*   Das nächste Open-Source-Treffen findet statt am **25. November 2016**
-    * Feuerzangenbowle und Waffelbacken
+*   Das nächste Open-Source-Treffen findet statt am **16. Dezember 2016**
+    * Weihnachtsfeier
+*   Der nächste Workshop findet statt am **15.1. & 29.1.2017** 
+    * OpenSource Brauen (Oliver Rath) [Details & Anmeldung](https://opensourcetreffen.de/workshops/)
 
