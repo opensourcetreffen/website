@@ -13,6 +13,16 @@ Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine 
 *   Freitag, 27. Januar 2017
     * Nix & NixOS (Christine Koppelt)
 *   Freitag, 24. Februar 2017
+*   Freitag, 24. März 2017
+*   Freitag, 28. April 2017
+*   Freitag, 26. Mai 2017
+*   Freitag, 23. Juni 2017
+*   Freitag, 28. Juli 2017
+*   Freitag, 25. August 2017
+*   Freitag, 22. September 2017
+*   Freitag, 27. Oktober 2017
+*   Freitag, 24. November 2017
+*   Freitag, 22. Dezember 2017
 
 ## Workshops
 
