@@ -6,8 +6,8 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 
 ## Nächste Termine
 
-*   Das nächste Open-Source-Treffen findet statt am **16. Dezember 2016**
-    * Weihnachtsfeier
+*   Das nächste Open-Source-Treffen findet statt am **27. Januar 2017**
+    * Nix & NixOS (Christine Koppelt)
 *   Der nächste Workshop findet statt am **15.1. & 29.1.2017** 
     * OpenSource Brauen (Oliver Rath) [Details & Anmeldung](https://opensourcetreffen.de/workshops/)
 
