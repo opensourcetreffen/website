@@ -6,8 +6,8 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 
 ## Nächste Termine
 
-*   Das nächste Open-Source-Treffen findet statt am **27. Januar 2017**
-    * Nix & NixOS (Christine Koppelt)
+*   Das nächste Open-Source-Treffen findet statt am **24. Februar 2017**
+    * Wir sind viele: Virtuelle Grafikkarten (vGPUs) unter Linux (Oliver Rath)
 *   Der nächste Workshop findet statt am **15.1. & 29.1.2017** 
     * OpenSource Brauen (Oliver Rath) [Details & Anmeldung](https://opensourcetreffen.de/workshops/)
 

@@ -365,6 +365,9 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 
 * Feuerzangenbowle und Waffelbacken
 
+## 27. Januar 2017
+* Nix & NixOS (Christine Koppelt)
+
 ## Vorträge über die Open-Source-Treffen
 
 *   [Florian's Präsentation am Augsburger Linux-Infotag 2015](https://speakerdeck.com/floeff/die-open-source-treffen-in-munchen-oder-wie-kocht-man-sich-sein-eigenes-open-source-event)
