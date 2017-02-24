@@ -366,7 +366,16 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 * Feuerzangenbowle und Waffelbacken
 
 ## 27. Januar 2017
+
 * Nix & NixOS (Christine Koppelt)
+
+## 15. & 29. Januar 2017
+* Workshop: OpenSource Brauen (Oliver Rath) Details & Anmeldung
+
+## 24. Februar 2017
+
+* Wir sind viele: Virtuelle Grafikkarten (vGPUs) unter Linux (Oliver Rath)
+
 
 ## Vorträge über die Open-Source-Treffen
 

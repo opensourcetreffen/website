@@ -8,8 +8,6 @@ Das Café Netzwerk bietet günstige alkoholfreie Getränke sowie Pizzen und Snac
 
 Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. Die Treffen stehen unter dem Motto **"Jeder vierte Freitag im Monat für freie Software"**:
 
-*   Freitag, 24. Februar 2017
-    * Wir sind viele: Virtuelle Grafikkarten (vGPUs) unter Linux (Oliver Rath)
 *   Freitag, 24. März 2017
 *   Freitag, 28. April 2017
 *   Freitag, 26. Mai 2017
@@ -23,5 +21,5 @@ Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine 
 
 ## Workshops
 
-*   15.1. & 29.1.2017 OpenSource Brauen (Oliver Rath) [Details & Anmeldung](https://opensourcetreffen.de/workshops/)
+*   zur Zeit sind keine Workshops geplant
 
