@@ -8,7 +8,6 @@ Das Café Netzwerk bietet günstige alkoholfreie Getränke sowie Pizzen und Snac
 
 Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. Die Treffen stehen unter dem Motto **"Jeder vierte Freitag im Monat für freie Software"**:
 
-*   Freitag, 24. März 2017
 *   Freitag, 28. April 2017
 *   Freitag, 26. Mai 2017
 *   Freitag, 23. Juni 2017
