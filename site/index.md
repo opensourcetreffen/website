@@ -6,5 +6,5 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 
 ## Nächste Termine
 
-*   Das nächste Open-Source-Treffen findet statt am **26. Mai 2017**
+*   Das nächste Open-Source-Treffen findet statt am **28. Juli**
 
