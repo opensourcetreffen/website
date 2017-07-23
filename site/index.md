@@ -7,4 +7,4 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 ## Nächste Termine
 
 *   Das nächste Open-Source-Treffen findet statt am **28. Juli**
-
+*   Am **6. August** von 13-17 Uhr gibt es einen Workshop: **Git für Einsteiger** von Christine Koppelt und Thilo Schnelle
