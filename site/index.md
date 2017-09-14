@@ -7,3 +7,4 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 ## Nächste Termine
 
 *   Das nächste Open-Source-Treffen findet statt am **22. September**
+** casync - Erfindet Lennart Poettering das Rad mal wieder neu? (Stefan Weiberg)
