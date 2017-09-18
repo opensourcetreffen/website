@@ -11,6 +11,7 @@ Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine 
 *   Freitag, 22. September 2017
  * casync & mkosi - Erfindet Lennart Poettering das Rad mal wieder neu? (Stefan Weiberg)
  * Copy, Paste und die Terminal (Michael Schönitzer)
+ * Die Zukunft der Open-Source-Treffen
 *   Freitag, 27. Oktober 2017
 *   Freitag, 24. November 2017
 *   Freitag, 22. Dezember 2017
