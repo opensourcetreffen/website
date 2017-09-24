@@ -13,6 +13,7 @@ Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine 
  * Copy, Paste und die Terminal (Michael Schönitzer)
  * Die Zukunft der Open-Source-Treffen
 *   Freitag, 27. Oktober 2017
+ * Perl (Bernhard Weitzhofer)
 *   Freitag, 24. November 2017
 *   Freitag, 22. Dezember 2017
 

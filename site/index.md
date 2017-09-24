@@ -6,7 +6,5 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 
 ## Nächste Termine
 
-*   Das nächste Open-Source-Treffen findet statt am **22. September**
- * casync & mkosi - Erfindet Lennart Poettering das Rad mal wieder neu? (Stefan Weiberg)
- * Copy, Paste und die Terminal (Michael Schönitzer)
- * Die Zukunft der Open-Source-Treffen
+*   Das nächste Open-Source-Treffen findet statt am **27. Oktober**
+ * Perl
