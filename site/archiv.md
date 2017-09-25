@@ -376,6 +376,10 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 
 * Wir sind viele: Virtuelle Grafikkarten (vGPUs) unter Linux (Oliver Rath)
 
+## 22. September 2017
+
+* [casync und mkosi - Erfindet Lennart Poettering das Rad mal wieder neu?](https://goo.gl/uGpjpq) (Stefan Weiberg)
+* [Copy, Past & the Terminal](https://github.com/Nudin/copy-paste-and-the-terminal) (Michael F. Schönitzer)
 
 ## Vorträge über die Open-Source-Treffen
 
