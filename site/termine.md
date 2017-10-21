@@ -9,7 +9,7 @@ Das Café Netzwerk bietet günstige alkoholfreie Getränke sowie Pizzen und Snac
 Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. Die Treffen stehen unter dem Motto **"Jeder vierte Freitag im Monat für freie Software"**:
 
 *   Freitag, 27. Oktober 2017
- * Perl (Bernhard Weitzhofer)
+ * Lernen von den Alten: Gute, interessante und verrückte Ideen in Perl 5 (Bernhard Weitzhofer)
  * 5 Jahre Wikidata
 *   Freitag, 24. November 2017
 *   Freitag, 22. Dezember 2017
