@@ -8,12 +8,9 @@ Das Café Netzwerk bietet günstige alkoholfreie Getränke sowie Pizzen und Snac
 
 Diese finden von **18 bis ca. 22 Uhr** statt. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. Die Treffen stehen unter dem Motto **"Jeder vierte Freitag im Monat für freie Software"**:
 
-*   Freitag, 22. September 2017
- * casync & mkosi - Erfindet Lennart Poettering das Rad mal wieder neu? (Stefan Weiberg)
- * Copy, Paste und die Terminal (Michael Schönitzer)
- * Die Zukunft der Open-Source-Treffen
 *   Freitag, 27. Oktober 2017
  * Perl (Bernhard Weitzhofer)
+ * 5 Jahre Wikidata
 *   Freitag, 24. November 2017
 *   Freitag, 22. Dezember 2017
 

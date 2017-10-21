@@ -8,3 +8,4 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 
 *   Das nächste Open-Source-Treffen findet statt am **27. Oktober**
  * Perl
+ * 5 Jahre Wikidata
