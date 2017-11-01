@@ -381,6 +381,11 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 * [casync und mkosi - Erfindet Lennart Poettering das Rad mal wieder neu?](https://goo.gl/uGpjpq) (Stefan Weiberg)
 * [Copy, Past & the Terminal](https://github.com/Nudin/copy-paste-and-the-terminal) (Michael F. Schönitzer)
 
+## 27. Oktober 2017
+
+* 5 Jahre Wikidata (Michael F. Schönitzer)
+* [Lernen von den Alten - gute, interessante und verrückte Ideen in Perl 5](https://gitlab.com/b6d/talk-perl-5) (Bernhard Weitzhofer)
+
 ## Vorträge über die Open-Source-Treffen
 
 *   [Florian's Präsentation am Augsburger Linux-Infotag 2015](https://speakerdeck.com/floeff/die-open-source-treffen-in-munchen-oder-wie-kocht-man-sich-sein-eigenes-open-source-event)
