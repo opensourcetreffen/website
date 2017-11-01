@@ -376,6 +376,10 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 
 * Wir sind viele: Virtuelle Grafikkarten (vGPUs) unter Linux (Oliver Rath)
 
+## 26. Mai 2017
+
+* [Taskwarrior](https://gitlab.com/b6d/talk-taskwarrior-intro) (Bernhard Weitzhofer)
+
 ## 22. September 2017
 
 * [casync und mkosi - Erfindet Lennart Poettering das Rad mal wieder neu?](https://goo.gl/uGpjpq) (Stefan Weiberg)
