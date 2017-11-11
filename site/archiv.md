@@ -376,6 +376,23 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 
 * Wir sind viele: Virtuelle Grafikkarten (vGPUs) unter Linux (Oliver Rath)
 
+## 26. Mai 2017
+
+* [Taskwarrior](https://gitlab.com/b6d/talk-taskwarrior-intro) (Bernhard Weitzhofer)
+
+## 6. August
+
+* Workshop: Einführung in Git (Christine Koppelt, Thilo Schnelle)
+
+## 22. September 2017
+
+* [casync und mkosi - Erfindet Lennart Poettering das Rad mal wieder neu?](https://goo.gl/uGpjpq) (Stefan Weiberg)
+* [Copy, Past & the Terminal](https://github.com/Nudin/copy-paste-and-the-terminal) (Michael F. Schönitzer)
+
+## 27. Oktober 2017
+
+* 5 Jahre Wikidata (Michael F. Schönitzer)
+* [Lernen von den Alten - gute, interessante und verrückte Ideen in Perl 5](https://gitlab.com/b6d/talk-perl-5) (Bernhard Weitzhofer)
 
 ## Vorträge über die Open-Source-Treffen
 
