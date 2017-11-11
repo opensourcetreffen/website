@@ -6,6 +6,5 @@ Die Münchener Open-Source-Treffen bringen Projekte mit ihren Nutzern zusammen u
 
 ## Nächste Termine
 
-*   Das nächste Open-Source-Treffen findet statt am **27. Oktober**
- * Lernen von den Alten: Gute, interessante und verrückte Ideen in Perl 5
- * 5 Jahre Wikidata
+*   Das nächste Open-Source-Treffen findet statt am **24. November**
+ * Mitgliederversammlung

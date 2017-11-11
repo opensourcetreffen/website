@@ -380,6 +380,10 @@ Hier könnt ihr euch die bisherigen Vorträge der Open-Source-Treffen herunterla
 
 * [Taskwarrior](https://gitlab.com/b6d/talk-taskwarrior-intro) (Bernhard Weitzhofer)
 
+## 6. August
+
+* Workshop: Einführung in Git (Christine Koppelt, Thilo Schnelle)
+
 ## 22. September 2017
 
 * [casync und mkosi - Erfindet Lennart Poettering das Rad mal wieder neu?](https://goo.gl/uGpjpq) (Stefan Weiberg)
