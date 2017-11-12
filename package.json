@@ -7,6 +7,8 @@
   },
   "devDependencies": {},
   "scripts": {
+    "server": "./node_modules/harp/bin/harp server site",
+    "compile": "./node_modules/harp/bin/harp compile site www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
